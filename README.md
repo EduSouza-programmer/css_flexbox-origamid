@@ -43,7 +43,7 @@ Vamos iniciar pelos fundamentos, ensinando todas as propriedades e o que elas fa
 #### Screenshots:
 
 <p align=center >
-  <img height="290px"  src="./img/home-desktop.png"> &nbsp; &nbsp; 
+  <img height="290px"  src="./img/home_desktop.png"> &nbsp; &nbsp; 
   <img height="320px" src="./img/mobile.png">
 </p>
 
@@ -51,7 +51,7 @@ Vamos iniciar pelos fundamentos, ensinando todas as propriedades e o que elas fa
 
 #### Concluido :clipboard:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_avancado-origamid/).
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/css_flexbox-origamid/).
 
 # 
 ## :unlock: Licença
