@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-Sobre-o-Portfólio">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#rocket-Sobre-o-curso">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#postbox-Entrega"">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
 </p>
@@ -43,8 +43,8 @@ Vamos iniciar pelos fundamentos, ensinando todas as propriedades e o que elas fa
 #### Screenshots:
 
 <p align=center >
-  <img height="290px"  src="./img/home_desktop.png"> &nbsp; &nbsp; 
-  <img height="320px" src="./img/mobile.png">
+  <img height="210px"  src="./img/home_desktop.png"> &nbsp; &nbsp; 
+  <img height="235px" src="./img/mobile.png">
 </p>
 
 ## :postbox: Entrega
